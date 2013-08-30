@@ -1,0 +1,19 @@
+{
+  "name": "jquery-pjax",
+  "repo": "bencevans/jquery-pjax",
+  "description": "A JQuery plugin to provide PJAX",
+  "version": "1.7.3",
+  "keywords": [
+    "jquery",
+    "pjax"
+  ],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "main": "jquery.pjax.js",
+  "scripts": [
+    "jquery.pjax.js"
+  ],
+  "license": "MIT"
+}

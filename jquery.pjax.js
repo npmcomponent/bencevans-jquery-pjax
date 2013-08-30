@@ -2,6 +2,8 @@
 // copyright chris wanstrath
 // https://github.com/defunkt/jquery-pjax
 
+var jQuery = module.exports = require('jquery');
+
 (function($){
 
 // When called on a container with a selector, fetches the href with
