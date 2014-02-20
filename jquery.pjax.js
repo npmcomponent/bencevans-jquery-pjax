@@ -2,7 +2,7 @@
 // copyright chris wanstrath
 // https://github.com/defunkt/jquery-pjax
 
-var jQuery = module.exports = require('jquery');
+var jQuery = module.exports = require('component-jquery');
 
 (function($){
 

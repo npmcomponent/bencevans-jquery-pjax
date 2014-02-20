@@ -1,0 +1,14 @@
+{
+  "name": "bencevans-jquery-pjax",
+  "description": "A JQuery plugin to provide PJAX",
+  "version": "1.7.3",
+  "keywords": [
+    "jquery",
+    "pjax"
+  ],
+  "main": "jquery.pjax.js",
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT"
+}
